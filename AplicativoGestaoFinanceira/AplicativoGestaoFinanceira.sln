@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicativoGestaoFinanceira", "AplicativoGestaoFinanceira\AplicativoGestaoFinanceira.csproj", "{66D68DC6-B772-4DD4-8E8A-1C492466481B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{E4FC792E-258F-4EB8-8962-55F5F3922A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D68DC6-B772-4DD4-8E8A-1C492466481B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D68DC6-B772-4DD4-8E8A-1C492466481B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D68DC6-B772-4DD4-8E8A-1C492466481B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D68DC6-B772-4DD4-8E8A-1C492466481B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FC792E-258F-4EB8-8962-55F5F3922A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FC792E-258F-4EB8-8962-55F5F3922A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FC792E-258F-4EB8-8962-55F5F3922A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FC792E-258F-4EB8-8962-55F5F3922A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F948F6F-CC0B-4E61-B3F7-3810963884E6}
+	EndGlobalSection
+EndGlobal

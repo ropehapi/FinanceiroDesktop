@@ -1,0 +1,30 @@
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.dll.config
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.pdb
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\bin\Debug\EntityFramework.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\bin\Debug\EntityFramework.xml
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.pdb
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.dll.config
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.pdb
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\EntityFramework.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\EntityFramework.xml
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pessoal\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.pdb
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.dll.config
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\DAO.pdb
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\EntityFramework.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\bin\Debug\EntityFramework.xml
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.dll
+C:\Users\ropeh\OneDrive\Área de Trabalho\Tudo\Pedro Monteiro Yoshimura\Estudos\Programação\Curso\C# com .NET e MySQL\AplicativoGestaoFinanceira\DAO\obj\Debug\DAO.pdb
